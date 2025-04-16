@@ -19,6 +19,6 @@ A powerful Android app to convert and resize all kinds of files including PDFs, 
 
 ## 🔗 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/adadityadas)
-- [GitHub](https://github.com/CodeSmithAditya)
-- 📧 [adadityadas99@gmail.com](mailto:adadityadas99@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/adadityadas)  
+🐙 [GitHub](https://github.com/CodeSmithAditya)  
+📧 [adadityadas99@gmail.com](mailto:adadityadas99@gmail.com)
