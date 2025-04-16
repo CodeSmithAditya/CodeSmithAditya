@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya Das!
 
-<!--
-**CodeSmithAditya/CodeSmithAditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android Developer passionate about creating intuitive, user-focused applications using Java and the Android SDK. I love building tools that make everyday tasks easier.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeSmithAditya&show_icons=true&theme=dark)
+
+---
+
+## 🚀 Featured Project
+
+### 📁 [FileForge](https://github.com/CodeSmithAditya/FileForge)
+A powerful Android app to convert and resize all kinds of files including PDFs, Word docs, images, and more!
+
+---
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/adadityadas)
+- [GitHub](https://github.com/CodeSmithAditya)
+- 📧 [adadityadas99@gmail.com](mailto:adadityadas99@gmail.com)
