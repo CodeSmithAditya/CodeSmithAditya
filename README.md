@@ -15,11 +15,12 @@ Welcome to my GitHub! I'm an Android developer who loves building efficient, use
 
 ## 🚀 Projects I'm Proud Of
 
-### 📁 [FileForge](https://github.com/CodeSmithAditya/FileForge)
+### 📁 [FileForge](https://github.com/CodeSmithAditya/FileForge)  
 A powerful Android app for file conversion and resizing. Supports PDFs, Docs, PPTs, Excel files, and images – all in one place.
 
 ### 💰 [Expensio](https://github.com/CodeSmithAditya/Expensio) *(In Progress)*  
 An intuitive personal finance tracker with budgeting features and real-time expense summaries.
+
 ---
 
 ## 🧰 Tech Stack
