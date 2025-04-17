@@ -2,8 +2,9 @@
 
 🎯 **Android Developer (Java/XML)** | 🧠 Curious Builder | ⚡ Code + Creativity
 
-![Java](https://img.shields.io/badge/Java-Primary-blue)
+![Java](https://img.shields.io/badge/Java-Expert-blue)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-Primary-green)
+![Data Science](https://img.shields.io/badge/Learning-Data_Science-purple)
 ![Docker](https://img.shields.io/badge/Learning-Docker-yellow)
 
 Welcome to my GitHub! I'm an Android developer who loves building efficient, user-friendly, and purpose-driven applications. I’m currently focusing on crafting tools that solve real-world file-handling problems and boost productivity.
