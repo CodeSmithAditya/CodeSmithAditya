@@ -5,7 +5,6 @@
 ![Java](https://img.shields.io/badge/Java-Expert-blue)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-Primary-green)
 ![Docker](https://img.shields.io/badge/Learning-Docker-yellow)
-![Learning](https://img.shields.io/badge/Learning-Docker-yellow)
 
 Welcome to my GitHub! I'm an Android developer who loves building efficient, user-friendly, and purpose-driven applications. I’m currently focusing on crafting tools that solve real-world file-handling problems and boost productivity.
 
