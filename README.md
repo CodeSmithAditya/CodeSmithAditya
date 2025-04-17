@@ -2,7 +2,9 @@
 
 🎯 **Android Developer (Java/XML)** | 🧠 Curious Builder | ⚡ Code + Creativity
 
-![Java](https://img.shields.io/badge/Java-Expert-blue)
+![Java](https://img.shields.io/badge/Java-Intermediate-blue)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![C](https://img.shields.io/badge/C-Intermediate-lightblue)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-Primary-green)
 ![Data Science](https://img.shields.io/badge/Learning-Data_Science-purple)
 ![Docker](https://img.shields.io/badge/Learning-Docker-yellow)
