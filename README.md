@@ -32,12 +32,6 @@ An intuitive personal finance tracker with budgeting features and real-time expe
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeSmithAditya&show_icons=true&theme=github_dark&hide=stars)
-
----
-
 ## 🌐 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/adadityadas)
