@@ -32,6 +32,18 @@ An intuitive personal finance tracker with budgeting features and real-time expe
 
 ---
 
+## 🔍 Currently Exploring
+
+I'm constantly learning and experimenting with new technologies to sharpen my skills and expand my development toolbox:
+
+- 🐳 **Docker** – Understanding containerization and environment management
+- 🔗 **REST APIs** – Designing and consuming APIs for Android backend integration
+- ☁️ **Firebase Services** – Authentication, Realtime DB, Firestore
+- 📊 **Data Science** – Python, Pandas, and visualization tools for data analysis
+- 🛠️ **Advanced Android Topics** – Jetpack components, MVVM, Room DB
+
+---
+
 ## 🌐 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/adadityadas)
