@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm an Android developer who loves building efficient, use
 ### 📁 [FileForge](https://github.com/CodeSmithAditya/FileForge) *(In Progress)* 
 A powerful Android app for file conversion and resizing. Supports PDFs, Docs, PPTs, Excel files, and images – all in one place.
 
-### 💰 [Expense Tracker CLI (Python)](https://github.com/CodeSmithAditya/Expense-Tracker-CLI-Python.git)  
+### 🧾 [Expense Tracker CLI (Python)](https://github.com/CodeSmithAditya/Expense-Tracker-CLI-Python.git)  
 A Python-based command-line tool to add, view, edit, search, summarize, and export your personal expenses.
 
 ---
